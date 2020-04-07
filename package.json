@@ -1,27 +1,30 @@
 {
-  "name": "@crsinc-xrd/xrd-dispatch-module",
-  "version": "0.1.0",
-  "description": "Dispatcher module for inter-plugin communication.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node index.test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/crsinc-xrd/xrd-dispatch-module.git"
-  },
-  "keywords": [
-    "crsinc",
-    "xrd",
-    "plugin"
-  ],
-  "author": "Yury Yuryev <yu.yuryev.dev@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/crsinc-xrd/xrd-dispatch-module/issues"
-  },
-  "homepage": "https://github.com/crsinc-xrd/xrd-dispatch-module#readme",
-  "dependencies": {
-    "events": "^3.1.0"
-  }
+    "name": "@crsinc-xrd/xrd-dispatch-module",
+    "version": "0.1.0",
+    "description": "Dispatcher module for inter-plugin communication.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/crsinc-xrd/xrd-dispatch-module.git"
+    },
+    "keywords": [
+        "crsinc",
+        "xrd",
+        "plugin"
+    ],
+    "author": "Yury Yuryev <yu.yuryev.dev@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/crsinc-xrd/xrd-dispatch-module/issues"
+    },
+    "homepage": "https://github.com/crsinc-xrd/xrd-dispatch-module#readme",
+    "dependencies": {
+        "events": "^3.1.0"
+    },
+    "devDependencies": {
+        "jasmine": "^3.5.0"
+    }
 }

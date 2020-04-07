@@ -1,7 +1,7 @@
 'use strict';
 
-import EventEmitter from 'events';
+var EventEmitter = require('events');
 
 var dispatcher = new EventEmitter();
 
-export { dispatcher };
+module.exports = dispatcher;
