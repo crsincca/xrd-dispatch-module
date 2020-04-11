@@ -1,6 +1,6 @@
 {
     "name": "@crsincca/xrd-dispatch-module",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "description": "Dispatcher module for inter-plugin communication.",
     "main": "index.js",
     "scripts": {
