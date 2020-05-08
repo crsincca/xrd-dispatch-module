@@ -12,8 +12,7 @@
     },
     "keywords": [
         "crsinc",
-        "xrd",
-        "plugin"
+        "xrd"
     ],
     "author": "Yury Yuryev <yu.yuryev.dev@gmail.com>",
     "license": "MIT",
